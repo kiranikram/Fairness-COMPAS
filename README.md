@@ -18,4 +18,4 @@ A simpler way to incorporate a cost is to include in the loss function a 1-D ten
 2. In a ruling on State vs Loomis presented to the Wisconsin Supreme Court, the Court ruled that the usage of such machine learning algorithms had to occur in conjunction with judgements conferred by those in the authority to decide on incarceration (Donohue , 2019). One of the points highlighted as an outcome of this examination was that greater likelihood must be ascribed to those individuals with a history of criminal activity. Due to its ordinal encoding, the model was not taking into account this heightened likelikood. Hence ascribed to it were the features relating Juvenile Felony Counts, Juvenile Misdemeanor Counts, Juvenile ’Other’ Counts and Priors Counts an emphasis factor equivalent to the mean of the distribution of each feature to the instances where there were no priors.
 
 
-Created with Sofoklis K for City, University of London CW 
+
